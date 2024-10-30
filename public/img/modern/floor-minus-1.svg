@@ -1,0 +1,27 @@
+<svg id="db783975-a4f9-44ea-b647-458697a2a90e" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59.69 54.72"
+class="prt-option-icon">
+  <defs>
+    <style>
+      .\33 bd6e5c7-127a-4158-bb86-9c6093683cae {
+        fill: #56aaff;
+      }
+
+      .\34 0133841-2122-42c8-858c-2202d8b19a75 {
+        fill: #d9dce1;
+      }
+
+      .\38 c77223d-e4b2-48a7-8c10-e51b0aabc326 {
+        fill: #0478ed;
+      }
+    </style>
+  </defs>
+  <title>floor-minus-1</title>
+  <polygon class="3bd6e5c7-127a-4158-bb86-9c6093683cae prt-icon-color" points="59.7 23.63 0 23.63 4.97 3.73 54.72 3.73 59.7 23.63"/>
+  <rect class="40133841-2122-42c8-858c-2202d8b19a75" x="3.73" y="23.63" width="52.23" height="31.09"/>
+  <polygon class="40133841-2122-42c8-858c-2202d8b19a75" points="44.77 17.41 29.85 7.46 14.92 17.41 14.92 28.6 44.77 28.6 44.77 17.41"/>
+  <rect class="3bd6e5c7-127a-4158-bb86-9c6093683cae prt-icon-color" x="39.8" width="7.46" height="4.97"/>
+  <g>
+    <path class="8c77223d-e4b2-48a7-8c10-e51b0aabc326 prt-icon-color-dark" d="M22.26,43.77V42H28v1.78Z" transform="translate(-2.15 -4.64)"/>
+    <path class="8c77223d-e4b2-48a7-8c10-e51b0aabc326 prt-icon-color-dark" d="M37.38,49.32h-1.9V37.11c0-1,0-2,.09-2.89a7,7,0,0,1-.55.52q-.3.27-2.79,2.28l-1-1.33,4.54-3.5h1.64Z" transform="translate(-2.15 -4.64)"/>
+  </g>
+</svg>

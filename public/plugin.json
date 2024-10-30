@@ -1,0 +1,29 @@
+{
+	"name": "Property Rating Tool",
+	"version": "1.2.4",
+	"download_url": "https://www.makler-anfragen.immo/property_rating/prt-355.zip",
+
+	"homepage": "https://www.makler-anfragen.immo",
+	"requires": "4.4",
+	"tested": "4.9",
+	"last_updated": "2018-03-15 18:35:00",
+	"upgrade_notice": "Wichtig: Styleänderungen werden in dieser Version wieder übernommen",
+
+	"author": "Andreas Konopka",
+
+	"sections": {
+		"description": "Texte lassen sich ab sofort editieren, Deaktivierung der Preisausgabe & Deaktivieren der einzelnen Schritte",
+		"changelog": "Texte lassen sich ab sofort editieren, Deaktivierung der Preisausgabe & Deaktivieren der einzelnen Schritte"
+	},
+
+	"banners": {
+		"low": "http://w-shadow.com/files/external-update-example/assets/banner-772x250.png",
+		"high": "http://w-shadow.com/files/external-update-example/assets/banner-1544x500.png"
+	},
+
+	"rating": 100,
+	"num_ratings": 42,
+
+	"downloaded": 42,
+	"active_installs": 42
+}

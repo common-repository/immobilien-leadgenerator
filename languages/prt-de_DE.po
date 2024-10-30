@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PRT Language 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-27 13:09+0100\n"
+"PO-Revision-Date: 2018-05-11 22:38+0300\n"
+"Language-Team: Emre Isik <non@non.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.0.7\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: prt.php:201
+msgid "firstname"
+msgstr "Vorname"
+
+#: prt.php:202
+msgid "lastname"
+msgstr "Nachname"
+
+#: prt.php:203
+msgid "phone"
+msgstr "Telefon"
+
+#: prt.php:204
+msgid "email"
+msgstr "E-Mail"
+
+#: prt.php:205
+msgid "address"
+msgstr "Adresse"
+
+#: prt.php:206
+msgid "living_space"
+msgstr "Wohnfläche"
+
+#: prt.php:207
+msgid "wohnflache"
+msgstr "Wohnfläche"
+
+#: prt.php:208
+msgid "rooms"
+msgstr "Zimmer"
+
+#: prt.php:209
+msgid "zimmer"
+msgstr "Zimmer"
+
+#: prt.php:210
+msgid "construction_year"
+msgstr "Baujahr"
+
+#: prt.php:211
+msgid "baujahr"
+msgstr "Baujahr"
+
+#: prt.php:212
+msgid "etage"
+msgstr "Etage"
+
+#: prt.php:213
+msgid "erschlossen"
+msgstr "Erschlossen"
+
+#: prt.php:214
+msgid "bebauung"
+msgstr "Bebauung"
+
+#: prt.php:215
+msgid "zuschnitt"
+msgstr "Zuschnitt"
+
+#: prt.php:216
+msgid "resultAbsolute"
+msgstr "Ermittelter durchschnittlicher Marktwert"
+
+#: prt.php:217
+msgid "lowAbsolute"
+msgstr "Tiefster Wert"
+
+#: prt.php:218
+msgid "highAbsolute"
+msgstr "Höchster Wert"
+
+#: prt.php:219
+msgid "resultPerSqm"
+msgstr "Durchschnittlicher Wert pro m² Wohnfläche"
+
+#: prt.php:222
+msgid "lowPerSqm"
+msgstr "Tiefster Wert pro m²"
+
+#: prt.php:223
+msgid "highPerSqm"
+msgstr "Höchster Wert pro m²"
+
+#: ../admin/class-table-list.php:98
+msgid "Show"
+msgstr "Anzeigen"
+
+#: ../admin/class-table-list.php:99 ../admin/class-table-list.php:197
+msgid "Delete"
+msgstr "Löschen"
+
+#: ../admin/class-table-list.php:100
+msgid "id"
+msgstr "Id"
+
+#: ../admin/class-table-list.php:102
+msgid "type"
+msgstr "Typ"
+
+#: ../admin/class-table-list.php:1
+msgid "grundflache"
+msgstr "Grundfläche"
+
+#: ../admin/class-table-list.php:101
+msgid "salutation"
+msgstr "Anrede"
+
+#: ../admin/class-table-list.php:146
+#, fuzzy
+#| msgid "firstname"
+msgid "First name"
+msgstr "Vorname"
+
+#: ../admin/class-table-list.php:147
+#, fuzzy
+#| msgid "lastname"
+msgid "Last name"
+msgstr "Nachname"
+
+#: ../admin/class-table-list.php:148
+#, fuzzy
+#| msgid "phone"
+msgid "Phone"
+msgstr "Telefon"
+
+#: ../admin/class-table-list.php:149 ../includes/class-prt-settings.php:102
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: ../admin/class-table-list.php:150
+#, fuzzy
+#| msgid "address"
+msgid "Address"
+msgstr "Adresse"
+
+#: ../includes/class-prt-settings.php:26
+msgid "General"
+msgstr "Allgemein"
+
+#: ../includes/class-prt-settings.php:36
+msgid "Google Maps API"
+msgstr "Google Maps API"
+
+#: ../includes/class-prt-settings.php:37
+msgid "Enter here the API Key for the Google Maps API"
+msgstr ""
+
+#: ../includes/class-prt-settings.php:47
+msgid "ImmobilienScout 24 (Key)"
+msgstr ""
+
+#: ../includes/class-prt-settings.php:48
+msgid "Enter here the API Key for ImmobilienScout24 API"
+msgstr ""
+
+#: ../includes/class-prt-settings.php:57
+msgid "date"
+msgstr "Datum"
+
+#: ../includes/class-prt-settings.php:58
+msgid "ImmobilienScout 24 (Secret)"
+msgstr ""
+
+#: ../includes/class-prt-settings.php:59
+msgid "Enter here the API Secret for ImmobilienScout24 API"
+msgstr ""
+
+#: ../includes/class-prt-settings.php:70
+msgid "Style"
+msgstr ""
+
+#: ../includes/class-prt-settings.php:80
+msgid "Primary Color"
+msgstr ""
+
+#: ../includes/class-prt-settings.php:81
+msgid "Changes the color of primary color "
+msgstr ""
+
+#: ../includes/class-prt-settings.php:90
+msgid "Secondary Color"
+msgstr ""
+
+#: ../includes/class-prt-settings.php:91
+msgid "Changes the color of secondary color "
+msgstr ""
+
+#: ../includes/class-prt-settings.php:112
+msgid "E-Mail: Subject"
+msgstr ""
+
+#: ../includes/class-prt-settings.php:113
+msgid ""
+"Change the subject of the e-mail which will be sent to the customer. "
+"<b>Variables</b> (below) allowed. "
+msgstr ""
+
+#: ../includes/class-prt-settings.php:123
+msgid "E-Mail: Content"
+msgstr ""
+
+#: ../includes/class-prt-settings.php:124
+msgid ""
+"This is the e-mail content for the customer. You can use these <b>variables</"
+"b>:<br><br>\n"
+"\t\t\t\t{{ESTATE_TYPE}}, {{FIRST_NAME}}, {{LAST_NAME}}, {{PHONE}},"
+"<br>{{EMAIL}}, {{ADDRESS}}, {{LIVING_SPACE}}, {{ROOM_COUNT}},"
+"<br>{{CONSTRUCTION_YEAR}}, {{FOOTPRINT}}, {{FLOOR}}, {{OPENED_UP}},"
+"<br>{{BUILDING}}, {{CUT}}, {{RESULT_ABSOLUTE}}, {{LOW_ABSOLUTE}},"
+"<br>{{HIGH_ABSOLUTE}}, {{RESULT_PER_SQM}}, {{LOW_PER_SQM}}, {{HIGH_PER_SQM}}"
+msgstr ""
+
+#: ../includes/class-wposa.php:590
+msgid "Choose File"
+msgstr ""
+
+#: ../includes/class-wposa.php:611
+msgid "Choose Image"
+msgstr ""

@@ -1,0 +1,113 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+div#wpcontent {
+	    background-color: #ffffff;
+
+}
+
+.prt-license-status {
+    padding: 5px 10px;
+    background: #fa8231;
+    display: inline-block;
+    border-radius: 5px;
+    color: white;
+}
+
+.prt-license-status.valid {
+    background: #20bf6b;
+}
+
+.prt-license-status.invalid {
+    background: #eb3b5a;
+}
+table.prt-statistics.widefat thead tr, table.prt-statistics.widefat tfoot tr {
+    background-color: rgba(44,62,80,1.0);
+}
+
+table.prt-statistics.widefat thead tr, table.prt-statistics.widefat tfoot tr, table.prt-statistics.widefat th .comment-grey-bubble:before, table.prt-statistics.widefat th .sorting-indicator:before, table.prt-statistics.widefat tfoot tr th, table.prt-statistics.widefat thead tr th, table.prt-statistics.widefat th.manage-column a, table.prt-statistics.widefat th.sortable a:active, table.prt-statistics.widefat th.sortable a:focus, table.prt-statistics.widefat th.sortable a:hover {
+    color: rgba(255,255,255,1.0);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.4em;
+}
+
+table.prt-requests.widefat thead tr, table.prt-requests.widefat tfoot tr {
+    background-color: rgba(44,62,80,1.0);
+}
+
+table.prt-requests.widefat thead tr, table.prt-requests.widefat tfoot tr, table.prt-requests.widefat th .comment-grey-bubble:before, table.prt-requests.widefat th .sorting-indicator:before, table.prt-requests.widefat tfoot tr th, table.prt-requests.widefat thead tr th, table.prt-requests.widefat th.manage-column a, table.prt-requests.widefat th.sortable a:active, table.prt-requests.widefat th.sortable a:focus, table.prt-requests.widefat th.sortable a:hover {
+    color: rgba(255,255,255,1.0);
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.4em;
+}
+
+
+table.prt_apj_table td label {
+    display: block;
+}
+table.prt_apj_table {
+    border: 0;
+}
+table.prt_apj_edit_table {
+    width: 100%;
+}
+table.prt_apj_edit_table td>input {
+    width: 100%;
+}
+table.prt_apj_edit_table td>input[type=checkbox] {
+    width: inherit;
+}
+button.prt_apj_edit_submit {
+    margin-top: 15px;
+    float: right;
+}
+button.prt_apj_edit_submit::after {
+    display: table;
+    clear: both;
+}
+
+
+.prt-lineheight-inherit {
+    line-height: inherit;
+}
+
+.prt-button-danger {
+    background-color: #dc3545 !important;
+    background: #dc3545 !important;
+    border-color: #dc3545 !important;
+    box-shadow: 0 1px 0 #dc3545 !important;
+    color: #fff !important;
+    text-decoration: none !important;
+    text-shadow: 0 -1px 1px #dc3545, 1px 0 1px #dc3545, 0 1px 1px #dc3545, -1px 0 1px #dc3545 !important;
+}
+
+.prt-button-success {
+    background-color: #28a745 !important;
+    background: #28a745 !important;
+    border-color: #28a745 !important;
+    box-shadow: 0 1px 0 #28a745 !important;
+    color: #fff !important;
+    text-decoration: none !important;
+    text-shadow: 0 -1px 1px #28a745, 1px 0 1px #28a745, 0 1px 1px #28a745, -1px 0 1px #28a745 !important;
+}
+
+.prt-importer-exporter {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 40px;
+}
+.prt-import {
+    flex: 50%;
+}
+.prt-export {
+    flex: 50%;
+}

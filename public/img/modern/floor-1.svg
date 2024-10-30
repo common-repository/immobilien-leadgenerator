@@ -1,0 +1,24 @@
+<svg id="fa2b0f11-f4fc-4993-9676-a615dfe2031b" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59.69 54.72"
+class="prt-option-icon">
+  <defs>
+    <style>
+      .\38 8adb2a9-906e-4657-ab7f-3f66217db200 {
+        fill: #56aaff;
+      }
+
+      .a2974427-5b92-4f99-b236-ddcb5d0d4080 {
+        fill: #d9dce1;
+      }
+
+      .\34 e9f70cd-b79a-4cbb-9a74-9c8bbebd0e00 {
+        fill: #0478ed;
+      }
+    </style>
+  </defs>
+  <title>floor-1</title>
+  <polygon class="88adb2a9-906e-4657-ab7f-3f66217db200 prt-icon-color" points="59.7 23.63 0 23.63 4.97 3.73 54.72 3.73 59.7 23.63"/>
+  <rect class="a2974427-5b92-4f99-b236-ddcb5d0d4080" x="3.73" y="23.63" width="52.23" height="31.09"/>
+  <polygon class="a2974427-5b92-4f99-b236-ddcb5d0d4080" points="44.77 17.41 29.85 7.46 14.92 17.41 14.92 28.6 44.77 28.6 44.77 17.41"/>
+  <rect class="88adb2a9-906e-4657-ab7f-3f66217db200 prt-icon-color" x="39.8" width="7.46" height="4.97"/>
+  <path class="4e9f70cd-b79a-4cbb-9a74-9c8bbebd0e00 prt-icon-color-dark" d="M33.52,49.32h-1.9V37.11c0-1,0-2,.09-2.89a7,7,0,0,1-.55.52q-.3.27-2.79,2.28l-1-1.33,4.54-3.5h1.64Z" transform="translate(-2.15 -4.64)"/>
+</svg>

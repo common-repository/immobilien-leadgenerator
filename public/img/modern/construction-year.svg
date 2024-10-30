@@ -1,0 +1,35 @@
+<svg id="81013927-193e-46ef-bd8e-ae7fda7f5a03" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.54 60.89"
+class="prt-icon prt-option-icon">
+  <defs>
+    <style>
+      .\31 c830e23-9697-46b0-92e9-140cde3ab5e1 {
+        fill: #d9dce1;
+      }
+
+      .\31 aaba30e-4d5f-42af-95fd-c14bfdcf3781 {
+        fill: #fff;
+      }
+
+      .\33 1e7a8f8-235c-4f0d-9d39-40a893b79c3c {
+        fill: none;
+        stroke: #0478ed;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .\33 0c2946e-c1dd-487f-b6fd-ff89d1bebe55 {
+        fill: #56aaff;
+      }
+
+      .\38 853f85f-f317-494f-acd1-d6f9b7b5d54f {
+        fill: #0478ed;
+      }
+    </style>
+  </defs>
+  <title>construction-year</title>
+  <path class="1c830e23-9697-46b0-92e9-140cde3ab5e1" d="M53.23,24.76l-6.86-6.62V9H39.15v2.17l-8.9-8.54a1.47,1.47,0,0,0-1.93,0L5.46,24.76a1.34,1.34,0,0,0,1,2.28h3.85V48.7H48.78V27h3.49A1.34,1.34,0,0,0,53.23,24.76Z" transform="translate(-5.07 -2.26)"/>
+  <rect class="1aaba30e-4d5f-42af-95fd-c14bfdcf3781" x="18.44" y="29.6" width="12.03" height="16.85"/>
+  <polyline class="31e7a8f8-235c-4f0d-9d39-40a893b79c3c prt-icon-color-stroke-dark" points="42.51 38.02 54.54 38.02 54.54 47.65 37.7 47.65 37.7 56.08"/>
+  <path class="30c2946e-c1dd-487f-b6fd-ff89d1bebe55 prt-icon-color" d="M56,45.09H28.32a1.13,1.13,0,0,1-1.2-1.2V35.47a1.14,1.14,0,0,1,1.2-1.21H56a1.14,1.14,0,0,1,1.2,1.21v8.42A1.13,1.13,0,0,1,56,45.09Z" transform="translate(-5.07 -2.26)"/>
+  <path class="8853f85f-f317-494f-acd1-d6f9b7b5d54f prt-icon-color-dark" d="M44,63.14h-2.4a1.14,1.14,0,0,1-1.21-1.2V53.52a1.15,1.15,0,0,1,1.21-1.21H44a1.14,1.14,0,0,1,1.21,1.21v8.42A1.14,1.14,0,0,1,44,63.14Z" transform="translate(-5.07 -2.26)"/>
+</svg>

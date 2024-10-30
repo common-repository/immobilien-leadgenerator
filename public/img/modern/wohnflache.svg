@@ -1,0 +1,38 @@
+<svg id="9565495d-d559-4eb5-83e8-aec7fef3f709" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59.43 59.43"
+class="prt-icon prt-option-icon">
+  <defs>
+    <style>
+      .\37 906c01e-6658-4051-848d-9bf66cd122bc, .f1a0cddd-7b97-4beb-ba63-225a03f026a8 {
+        fill: none;
+        stroke: #d9dce1;
+        stroke-miterlimit: 10;
+      }
+
+      .\37 906c01e-6658-4051-848d-9bf66cd122bc {
+        stroke-width: 3px;
+      }
+
+      .f1a0cddd-7b97-4beb-ba63-225a03f026a8 {
+        stroke-width: 2px;
+      }
+
+      .fc2cb8bb-feab-4509-8678-7e13912cad62 {
+        fill: #56aaff;
+      }
+
+      .\32 a5da055-5c6c-4900-a672-452528dd85fb {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>wohnflache</title>
+  <path class="7906c01e-6658-4051-848d-9bf66cd122bc" d="M36.51,9.61V3.71H6.33A2.63,2.63,0,0,0,3.71,6.33V57.51a2.63,2.63,0,0,0,2.62,2.63H57.51a2.63,2.63,0,0,0,2.63-2.63V6.33a2.63,2.63,0,0,0-2.63-2.62H45.7v5.9" transform="translate(-2.21 -2.21)"/>
+  <line class="f1a0cddd-7b97-4beb-ba63-225a03f026a8" x1="2.16" y1="29.71" x2="23.15" y2="29.71"/>
+  <line class="f1a0cddd-7b97-4beb-ba63-225a03f026a8" x1="23.15" y1="44.15" x2="23.15" y2="58.58"/>
+  <line class="f1a0cddd-7b97-4beb-ba63-225a03f026a8" x1="32.34" y1="44.15" x2="32.34" y2="58.58"/>
+  <line class="f1a0cddd-7b97-4beb-ba63-225a03f026a8" x1="23.15" y1="19.22" x2="23.15" y2="37.59"/>
+  <line class="f1a0cddd-7b97-4beb-ba63-225a03f026a8" x1="23.15" y1="2.16" x2="23.15" y2="12.65"/>
+  <line class="f1a0cddd-7b97-4beb-ba63-225a03f026a8" x1="58.58" y1="36.28" x2="31.03" y2="36.28"/>
+  <path class="fc2cb8bb-feab-4509-8678-7e13912cad62 prt-icon-color" d="M50.16,22l-2.49-2.36V16.17H45V17L42.68,14.6a.58.58,0,0,0-.65,0L34.55,22a.46.46,0,0,0,.26.79h1v7.87H49V22.74h.92A.46.46,0,0,0,50.16,22Z" transform="translate(-2.21 -2.21)"/>
+  <rect class="2a5da055-5c6c-4900-a672-452528dd85fb" x="37.59" y="23.15" width="5.25" height="5.25"/>
+</svg>

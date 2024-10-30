@@ -1,0 +1,50 @@
+<svg id="499b7b0e-8951-49fc-b7b3-6147e95aaa08" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.5 44.92"
+class="prt-option-icon">
+  <defs>
+    <style>
+      .\30 ec6b885-882d-4f5a-b12b-193568c9d344 {
+        fill: #d9dce1;
+      }
+
+      .\34 30728ca-2a71-4aff-8571-8460f1c894ec {
+        fill: #56aaff;
+      }
+
+      .bae76b8e-aba1-4609-85b5-eebdf497fc91 {
+        fill: #0478ed;
+      }
+
+      .\31 27d1357-8fee-4bf3-821e-ef51a858377d, .\39 8654ccd-8dbf-4c04-bcf7-34da4ce0e7d5 {
+        fill: #fff;
+      }
+
+      .\31 27d1357-8fee-4bf3-821e-ef51a858377d {
+        stroke: #0478ed;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>teilerschlossen</title>
+  <path class="0ec6b885-882d-4f5a-b12b-193568c9d344" d="M59.17,57.93H4.83A4,4,0,0,1,.75,53.85v-34h62.5v34A4,4,0,0,1,59.17,57.93Z" transform="translate(-0.75 -13.01)"/>
+  <path class="430728ca-2a71-4aff-8571-8460f1c894ec prt-icon-color" d="M8.9,14.45H4.83A4,4,0,0,0,.75,18.53V53.85a4,4,0,0,1,4.08-4.07H8.9Z" transform="translate(-0.75 -13.01)"/>
+  <path class="430728ca-2a71-4aff-8571-8460f1c894ec prt-icon-color" d="M55.1,14.45h4.07a4,4,0,0,1,4.08,4.08V53.85a4,4,0,0,0-4.08-4.07H55.1Z" transform="translate(-0.75 -13.01)"/>
+  <polygon class="bae76b8e-aba1-4609-85b5-eebdf497fc91 prt-icon-color-dark" points="41.19 8.1 21.32 8.1 23.01 1.47 39.49 1.47 41.19 8.1"/>
+  <rect class="98654ccd-8dbf-4c04-bcf7-34da4ce0e7d5" x="22.42" y="8.1" width="17.66" height="10.3"/>
+  <polygon class="98654ccd-8dbf-4c04-bcf7-34da4ce0e7d5" points="35.67 6.7 31.25 3.53 26.83 6.7 26.83 10.3 35.67 10.3 35.67 6.7"/>
+  <rect class="bae76b8e-aba1-4609-85b5-eebdf497fc91 prt-icon-color-dark" x="34.19" width="2.21" height="1.47"/>
+  <rect class="bae76b8e-aba1-4609-85b5-eebdf497fc91 prt-icon-color-dark" x="29.04" y="11.04" width="4.42" height="7.36"/>
+  <circle class="98654ccd-8dbf-4c04-bcf7-34da4ce0e7d5" cx="31.99" cy="14.72" r="0.74"/>
+  <rect class="127d1357-8fee-4bf3-821e-ef51a858377d prt-icon-color-stroke-dark" x="25.85" y="23.34" width="10.81" height="10.81" rx="1.41" ry="1.41"/>
+  <rect class="127d1357-8fee-4bf3-821e-ef51a858377d prt-icon-color-stroke-dark" x="42.06" y="23.34" width="10.81" height="10.81" rx="1.41" ry="1.41"/>
+  <rect class="127d1357-8fee-4bf3-821e-ef51a858377d prt-icon-color-stroke-dark" x="9.63" y="23.34" width="10.81" height="10.81" rx="1.41" ry="1.41"/>
+  <g>
+    <path class="0ec6b885-882d-4f5a-b12b-193568c9d344" d="M46.19,45.43a6.38,6.38,0,0,1-1.08-1.54,3.48,3.48,0,0,1-.21-2A4.31,4.31,0,0,1,45.76,40a1.8,1.8,0,0,0,.45,1.31,3.12,3.12,0,0,1,.71-2.58,5.27,5.27,0,0,1,2.28-1.49A1.82,1.82,0,0,0,48.89,39a7.07,7.07,0,0,0,.84,1.67,3.79,3.79,0,0,1,.63,1.72,6,6,0,0,0,.47-1,1.94,1.94,0,0,0,.07-1.09,2.71,2.71,0,0,1,.62,1.35,5.64,5.64,0,0,1,0,1.59A3.87,3.87,0,0,1,51,44.94a3.17,3.17,0,0,1-1.63,1.22A3.74,3.74,0,0,1,46.19,45.43Z" transform="translate(-0.75 -13.01)"/>
+    <path class="98654ccd-8dbf-4c04-bcf7-34da4ce0e7d5" d="M47.61,46.12a1.84,1.84,0,0,0,2.21-2.62s0,0,0,0a1.87,1.87,0,0,1-.47,1.65,1.75,1.75,0,0,0-.16-1.42c-.23-.43-.55-.82-.79-1.24a2,2,0,0,1-.32-1.4,2.48,2.48,0,0,0-.71,3,1.23,1.23,0,0,1-.5-.9,1.94,1.94,0,0,0-.47,1.29A1.91,1.91,0,0,0,47.61,46.12Z" transform="translate(-0.75 -13.01)"/>
+  </g>
+  <g>
+    <path class="bae76b8e-aba1-4609-85b5-eebdf497fc91 prt-icon-color-dark" d="M19,43a3.2,3.2,0,1,1-6.39,0c0-1.77,3.2-5.76,3.2-5.76S19,41.29,19,43Z" transform="translate(-0.75 -13.01)"/>
+    <path class="430728ca-2a71-4aff-8571-8460f1c894ec prt-icon-color" d="M15.79,45a2.08,2.08,0,0,1-2.08-2.08.25.25,0,0,1,.49,0,1.59,1.59,0,0,0,1.59,1.59.25.25,0,0,1,0,.49Z" transform="translate(-0.75 -13.01)"/>
+  </g>
+  <path class="0ec6b885-882d-4f5a-b12b-193568c9d344" d="M30,46.18l2.87-2.88a.19.19,0,0,0-.13-.32h-.23a.19.19,0,0,1-.15-.3l1.52-1.92a.18.18,0,0,0-.14-.3H33a.19.19,0,0,1-.15-.3l2-2.59a.18.18,0,0,0-.15-.29H31.58a.18.18,0,0,0-.16.1l-1.5,3a.18.18,0,0,0,.16.27h.69a.19.19,0,0,1,.17.27l-1,2.08a.18.18,0,0,0,.16.27h.65a.18.18,0,0,1,.17.26L29.74,46A.19.19,0,0,0,30,46.18Z" transform="translate(-0.75 -13.01)"/>
+</svg>

@@ -1,0 +1,679 @@
+@import url('https://fonts.googleapis.com/css?family=$default_font_family:300,400,700&subset=$default_font_subset');
+
+.full-width {
+    width: 100%;
+}
+
+.pac-container {
+    z-index: 1051 !important;
+}
+
+#prt-root {
+    position: relative;
+    background: $secondary_color;
+    font-family: $default_font_family;
+    overflow: hidden;
+    color: $default_font_color;
+    font-size: $default_font_size;
+    font-weight: $default_font_weight;
+    text-transform: $default_font_transform;
+}
+
+#prt-root button {
+    cursor: pointer;
+}
+
+#prt-root .r-left {
+    text-align: left !important;
+}
+#prt-root .r-center {
+    text-align: center !important;
+}
+#prt-root .r-right {
+    text-align: right !important;
+}
+
+#prt-root .salutation {
+    width: 100%;
+    line-height: inherit;
+    margin: 10px;
+    padding: 5px 10px;
+}
+
+#prt-root .privacy-read-text {
+    margin-left: 10px;
+    text-align: left;
+}
+
+#prt-root h1 {
+    font-family: $default_font_family;
+    color: $h1_color;
+    font-size: $h1_size;
+    line-height: initial;
+}
+#prt-root h2 {
+    font-family: $default_font_family;
+    color: $h2_color;
+    font-size: $h2_size;
+    line-height: initial;
+}
+#prt-root h3 {
+    font-family: $default_font_family;
+    color: $h3_color;
+    font-size: $h3_size;
+    line-height: initial;
+}
+#prt-root h4 {
+    font-family: $default_font_family;
+    color: $h4_color;
+    font-size: $h4_size;
+    line-height: initial;
+}
+#prt-root h5 {
+    font-family: $default_font_family;
+    color: $h5_color;
+    font-size: $h5_size;
+    margin: 5px 0 0 0;
+    line-height: initial;
+}
+#prt-root h6 {
+    font-family: $default_font_family;
+    color: $h6_color;
+    font-size: $h6_size;
+    line-height: initial;
+}
+
+#prt-root .steps {
+    width: 100%;
+    display: inline-block;
+}
+
+/* Step Parent */
+#prt-root .steps > div > div {
+    position: relative;
+}
+
+#prt-root .step {
+    overflow: hidden;
+    height: 100%;
+    padding: 15px;
+}
+
+/* HELPER */
+#prt-root .grow { transition: all .2s ease-in-out; }
+#prt-root .grow:hover { transform: scale(1.1); }
+
+#prt-root .privacy {
+    display: none;
+    margin-bottom: 4px;
+}
+#prt-root .privacy > .openPrivacy {
+    font-size: 9px;
+    color: #222222;
+}
+#prt-root .privacy > .text {
+    display: none;
+}
+
+#prt-root .progress-section {
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+#prt-root .progress-bar {
+    display: inline-block;
+    overflow: hidden;
+    border: 1px solid $progress_color;
+    background-color: transparent;
+    font-family: $default_font_family;
+    height: 25px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+#prt-root .progress-bar>.progress {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: $progress_color;
+    height: 100%;
+    color: $secondary_color;
+    text-align: center;
+    -webkit-transition: all 200ms linear;
+    -ms-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+
+#prt-root .step h2 {
+    text-align: center;
+}
+
+#prt-root .step section {
+    text-align: center;
+}
+
+#prt-root .svg-icon {
+    fill: $primary_color;
+}
+
+#prt-root .option-box {
+    cursor: pointer;
+    display: inline-block;
+    border: 1px solid $primary_color;
+    width: 20%;
+    max-width: 120px;
+    text-align: center;
+    margin: 1px;
+    -webkit-transition: all 100ms linear;
+    -ms-transition: all 100ms linear;
+    transition: all 100ms linear;
+}
+
+#prt-root .option-box:hover {
+    transform: scale(1.05);
+}
+
+#prt-root .option-box > .svg-icon {
+    padding: 8px;
+}
+
+#prt-root .option-box > span {
+    background-color: $primary_color;
+    color: $secondary_color;
+    display: block;
+    width: 100%;
+}
+
+#prt-root .option-box > svg, #prt-root .option-box > img {
+    width: 90%;
+}
+
+#prt-root .option-box:hover {
+    background: #dadada;
+}
+
+#prt-root .option-box.selected {
+    border: 2px solid $primary_color;
+    background: #dadada;
+    transform: scale(1.05);
+}
+
+#prt-root .button {
+    background-color: $primary_color;
+    color: $secondary_color;
+    border: 0;
+    outline: none;
+    box-shadow: none;
+    border-radius: 4px;
+    font-size: 18px;
+    padding: 6px 20px;
+    margin-top: 20px;
+}
+
+#prt-root .button.prev {
+    float: right;
+    background-color: $button_prev_color;
+}
+
+#prt-root .button.next {
+    float: right;
+    background-color: $button_next_color;
+}
+
+#prt-root .button.finish {
+    float: right;
+    background-color: $button_finish_color;
+}
+
+#prt-root .button.prev {
+    float: left;
+}
+
+#prt-root select {
+    height: 35px;
+    min-width: 45%;
+    text-align: center;
+    margin: 25px 0px;
+}
+
+#prt-root .step section {
+    min-height: 100px;
+}
+
+#prt-root .range-display {
+    font-weight: 900;
+    font-size: 20px;
+    margin: 35px 0 0 0;
+}
+
+#prt-root .range-display input {
+    display: inline-block;
+}
+
+#prt-root .range-show-value {
+    background: transparent;
+    color: $default_font_color;
+    border: 1px solid $primary_color;
+    font-family: $default_font_family;
+    text-align: right;
+    width: 15%;
+    font-weight: 300;
+    padding: 3px;
+}
+
+#prt-root .range-show-value.baujahr {
+    width: 20%;
+}
+
+#prt-root .sub-title {
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+}
+
+#prt-root .prtAdressInputField {
+    width: 90%;
+    line-height: inherit;
+    padding: 9px;
+    margin-top: 10px;
+    background-color: $secondary_color;
+    border: 1px solid $primary_color;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+#prt-root .form-input {
+    width: 100%;
+    line-height: inherit;
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: $secondary_color;
+    border: 1px solid $primary_color;
+}
+
+#prt-root .result {
+    display: none;
+}
+
+#prt-root .no_rate {
+    display: none;
+}
+
+#prt-root .benefits {
+    width: 100%;
+    padding: 8px 12px;
+    font-size: 1rem;
+    text-align: left;
+}
+
+#prt-root .benefits ul {
+    margin: 0;
+    padding: 0;
+    margin-left: 30px;
+}
+
+#prt-root .benefits ul > li{
+    margin: 0;
+    padding: 0;
+}
+
+#prt-root .benefits ul.haken > li {
+    list-style: none;
+}
+
+#prt-root .benefits ul.haken > li:before {
+    content: '\2713';
+    margin-right: 2px;
+}
+
+#prt-root .left-content {
+    float:left;
+    width: 50%;
+}
+
+#prt-root .right-content {
+    float: right;
+    width: 50%;
+}
+
+#prt-root .step section:after {
+    content: '';
+    clear: both;
+    display: table;
+}
+
+#prt-root .selectable-button li {
+    display: inline-block;
+    padding: 5px 20px;
+    border-radius: 8px;
+    border: 1px solid;
+    -webkit-transition: all 200ms linear;
+    -ms-transition: all 200ms linear;
+    transition: all 200ms linear;
+    cursor: pointer;
+    margin: 4px;
+}
+
+#prt-root .selectable-button li:hover, #prt-root .selectable-button li.selected {
+    background: $primary_color;
+    color: $secondary_color;
+}
+
+/* Dialog Overlay */
+#prt-root .overlay {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #0A0A0A;
+    opacity: 0.7;
+    z-index: 98;
+    -webkit-transition: all 200ms linear;
+    -ms-transition: all 200ms linear;
+    transition: all 200ms linear;
+}
+#prt-root .dialog {
+    position: absolute;
+    display: none;
+    width: 80%;
+    min-height: 50%;
+    height: 80%;
+    left: 0;
+    top:0;
+    margin: 5% 10%;
+    z-index: 99;
+}
+#prt-root .dialog.privacy-active {
+    position: absolute;
+    display: none;
+    width: 80%;
+    font-size: 12px;
+    min-height: 80%;
+    height: 80%;
+    left: 0;
+    top:0;
+    margin: 5% 10%;
+    z-index: 99;
+}
+#prt-root .dialog.privacy-active.active .dialog-body {
+    display: block;
+}
+#prt-root .loader {
+    position: absolute;
+    display: none;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top:0;
+    z-index: 99;
+}
+#prt-root .dialog.active, #prt-root .overlay.active, #prt-root .dialog .dialog-icon.active, #prt-root .dialog .dialog-emoji.active {
+    display: block !important;
+}
+#prt-root .loader.active {
+    display: flex !important;
+}
+#prt-root .dialog > .dialog-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $primary_color;
+    height: 48px;
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    color: $secondary_color;
+}
+
+#prt-root .dialog > .dialog-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: auto;
+    background-color: $secondary_color;
+    font-size: 1.15rem;
+    font-weight: 700;
+    text-align: center;
+    color: #0a0a0a;
+    height: 80%;
+    flex-direction: column;
+}
+
+#prt-root .dialog.privacy-active > .dialog-body {
+    font-size: 11px;
+    font-weight: 400;
+    font-family: Arial;
+    text-align: left;
+    padding: 12px;
+}
+
+#prt-root .dialog.privacy-active > .dialog-body > .text{
+    margin-top: 0px;
+    font-size: 12px;
+}
+
+#prt-root .dialog > .dialog-body > .text {
+    margin-top: 20px;
+    font-size: 23px;
+}
+
+#prt-root .dialog .dialog-icon {
+    display: none;
+    width: 15%;
+}
+
+#prt-root .dialog.privacy-active .dialog-emoji {
+    display: none !important;
+}
+
+#prt-root .dialog .dialog-emoji {
+    display: none;
+    width: 15% !important;
+}
+
+#prt-root .dialog .dialog-emoji img {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/* HTML5 Range */
+#prt-root input[type=range] {
+    position: relative;
+    -webkit-appearance: none;
+    margin: 18px 0;
+    margin-top: 40px;
+    width: 100%;
+    border: 0;
+}
+
+#prt-root input[type=range]:focus {
+    outline: none;
+}
+
+#prt-root input[type=range]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    animate: 0.2s;
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    background: $primary_color;
+    border-radius: 1.3px;
+    border: 0.2px solid #010101;
+}
+
+#prt-root input[type=range]::-webkit-slider-thumb {
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    border: 1px solid $primary_color;
+    height: 36px;
+    width: 16px;
+    border-radius: 3px;
+    background: #ffffff;
+    cursor: pointer;
+    -webkit-appearance: none;
+    margin-top: -14px;
+}
+
+#prt-root input[type=range]:focus::-webkit-slider-runnable-track {
+    background: $primary_color;
+}
+
+#prt-root input[type=range]::-moz-range-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    animate: 0.2s;
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    background: $primary_color;
+    border-radius: 1.3px;
+    border: 0.2px solid #010101;
+}
+
+#prt-root input[type=range]::-moz-range-thumb {
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    border: 1px solid $primary_color;
+    height: 36px;
+    width: 16px;
+    border-radius: 3px;
+    background: #ffffff;
+    cursor: pointer;
+}
+
+#prt-root input[type=range]::-ms-track {
+    width: 100%;
+    height: 8.4px;
+    cursor: pointer;
+    animate: 0.2s;
+    background: transparent;
+    border-color: transparent;
+    border-width: 16px 0;
+    color: transparent;
+}
+
+#prt-root input[type=range]::-ms-fill-lower {
+    background: $primary_color;
+    border: 0.2px solid #010101;
+    border-radius: 2.6px;
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+
+#prt-root input[type=range]::-ms-fill-upper {
+    background: $primary_color;
+    border: 0.2px solid #010101;
+    border-radius: 2.6px;
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+}
+
+#prt-root input[type=range]::-ms-thumb {
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    border: 1px solid $primary_color;
+    height: 36px;
+    width: 16px;
+    border-radius: 3px;
+    background: #ffffff;
+    cursor: pointer;
+}
+
+#prt-root input[type=range]:focus::-ms-fill-lower {
+    background: $primary_color;
+}
+
+#prt-root input[type=range]:focus::-ms-fill-upper {
+    background: $primary_color;
+}
+
+#prt-root .justy-centy {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Results */
+.marktwert, .res-wertspanne, .wohnflaeche, .erm-wertspanne {
+    width: 300px;
+    float: left;
+}
+.results {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    padding: 15px;
+    border: 1px solid transparent;
+    margin-bottom: 0px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    text-align: left;
+}
+
+/* this doesn't work with IE. So we will use disabled too. */
+#prt-root .opt-cat-haus, #prt-root .opt-cat-wohnung {
+    display: none;
+}
+
+#prt-root .thanks-text {
+    background-color: #d4f7cc;
+    color: #398f31;
+    border: 1px solid transparent;
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 18px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+#prt-root .by-ref {
+    color: #222;
+	font-size: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+#prt-root .by-ref a {
+    color: #222;
+    text-decoration: none;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(15, 15, 15, 1);
+    box-shadow: inset 0 -1px 0 rgba(15, 15, 15, 1);
+    -webkit-transition: color 80ms ease-in, -webkit-box-shadow 130ms ease-in-out;
+    transition: color 80ms ease-in, -webkit-box-shadow 130ms ease-in-out;
+    transition: color 80ms ease-in, box-shadow 130ms ease-in-out;
+    transition: color 80ms ease-in, box-shadow 130ms ease-in-out, -webkit-box-shadow 130ms ease-in-out;
+}
+
+#prt-root .by-ref a:hover {
+    color: #000;
+	-webkit-box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+	box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 1px 0 rgba(0, 0, 0, 1);
+}
+
+@media only screen and (max-width: 600px) {
+    #prt-root .options {
+        padding: 2em;
+    }
+    #prt-root .option-box {
+        width: 40%;
+    }
+}
+
+#prt-root #prt-google-map {
+    height: 400px;
+    width: 90%;
+    border: 1px solid $primary_color;
+    border-top: 0px;
+    border-radius: 3px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.privacy-note {
+    text-align: left;
+    border: 4px solid white;
+    background: #f5f5f5;
+    box-shadow: 0 0 1px rgba(0,0,0, .4);
+    padding: 7px 1px 1px 5px;
+}
+
+/* C-CSS */
+$custom_css
